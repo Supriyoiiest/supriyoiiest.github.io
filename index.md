@@ -1,13 +1,15 @@
 ---
 title: Supriyo Pal
 feature_text: |
-  ## Supriyo Pal
+  ## About me,
   I am a amature web developer and Data science enthusiast.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Hey there! I’m Supriyo, a student at IIEST Shibpur. I’m currently pursuing my degree in engineering and I’m passionate about learning new things. When I’m not trying to wrap my head around engineering problems, I’m usually geeking out over programming or reading non-fiction books. I love to learn about new technologies and how they can be used to solve real-world problems. And if I’m feeling sporty, you’ll find me on the field playing cricket, football, or basketball. No, I’m not the next Messi, but I sure give it my all!
+
+I have an eagle eye for detail and a passion for innovation. I believe that engineering is all about finding creative solutions to complex problems. That’s why I’m stoked to make my mark in the engineering industry one project at a time. I’m excited to see what the future holds and I can’t wait to see where my career takes me.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
