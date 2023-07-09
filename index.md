@@ -11,7 +11,9 @@ Hey there! I’m Supriyo, a student at IIEST Shibpur. I’m currently pursuing m
 
 I have an eagle eye for detail and a passion for innovation. I believe that engineering is all about finding creative solutions to complex problems. That’s why I’m stoked to make my mark in the engineering industry one project at a time. I’m excited to see what the future holds and I can’t wait to see where my career takes me.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+Here are my socials:-
+
+{% include button.html text="Github" icon="github" link="https://github.com/Supriyoiiest" color="#0366d6" %} {% include button.html text="Linkedin" link="https://www.linkedin.com/in/supriyo-pal-iiest/" color="#f68140" %} {% include button.html text="Tweet me" icon="twitter" link="https://twitter.com/Supriyo_iiests" color="#0d94e7" %} {% include button.html text="Instagram" link="https://www.instagram.com/bitrategiant/" %}
 
 ## Features
 
