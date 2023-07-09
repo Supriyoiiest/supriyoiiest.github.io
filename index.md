@@ -19,7 +19,7 @@ Here are my socials:-
 
 These are some of the projects I am extermly proud of:
 
-- Automated Attendence Updating and Recording Software : {% include button.html icon="github" link="https://github.com/Supriyoiiest/AARUS" color="#000000" %}
+- Automated Attendence Updating and Recording Software : {% include button.html text="" icon="github" link="https://github.com/Supriyoiiest/AARUS" color="#000000" %}
 - Terror Predection Algorithm : {% include button.html icon="github" link="https://github.com/Supriyoiiest/Terror-Preduction-Algo" color="#000000" %}
 
 
