@@ -1,6 +1,6 @@
 ---
-title: Categories
+title: Projects
 layout: categories
-excerpt: "Category index"
+excerpt: "Here are some of my projects :: "
 aside: true
 ---
