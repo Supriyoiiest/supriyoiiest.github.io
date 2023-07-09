@@ -2,7 +2,7 @@
 title: My journey into web development
 categories:
 - Web-Development
-- External sources
+
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
