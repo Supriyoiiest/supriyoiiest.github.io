@@ -19,7 +19,7 @@ Here are my socials:-
 
 These are some of the projects I am extermly proud of:
 
-- Automated Attendence Updating and Recording Software : {% include button.html text="Github" icon="github" link="https://github.com/Supriyoiiest/AARUS" color="#0366d6" %}
+- Automated Attendence Updating and Recording Software : {% include button.html icon="github" link="https://github.com/Supriyoiiest/AARUS" color="#0366d6" %}
 
 
 
