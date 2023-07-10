@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Supriyo" # Site name or title, also used in jekyll-seo-tag
-logo: "avatars.githubusercontent.com/u/131426815?v=4" # Site logo, also used in jekyll-seo-tag
+logo: "https://avatars.githubusercontent.com/u/131426815?v=4" # Site logo, also used in jekyll-seo-tag
 description: "This site was made to journal my learning and showcase my projects,I hope you like it." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
