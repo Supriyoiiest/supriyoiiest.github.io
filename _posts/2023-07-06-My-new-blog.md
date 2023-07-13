@@ -5,7 +5,7 @@ categories:
 
 feature_image: "https://picsum.photos/id/1/2560/600"
 ---
-Hey there! Guess what? I'm about to publish my very first blog, and I couldn't be more excited! It feels like I'm unleashing a whirlwind of ideas and opinions into the digital world, and I can't wait to see where it takes me. This journey has been a long time coming, and the anticipation is killing me! Let me give you a sneak peek into my exhilarating experience of launching my blog.
+Hey there! Guess what? I'm about to publish my very first <a href="https://web-diary.github.io/">blog</a>, and I couldn't be more excited! It feels like I'm unleashing a whirlwind of ideas and opinions into the digital world, and I can't wait to see where it takes me. This journey has been a long time coming, and the anticipation is killing me! Let me give you a sneak peek into my exhilarating experience of launching my blog.
 
 So, after a ton of research and exploring various options, I finally found the perfect blogging platform for me. It's super user-friendly, and the themes are just so darn beautiful! Customization options galore, too! Seriously, my blog is going to look like a work of art. I can already picture how my personality will shine through its virtual pages.
 
@@ -20,3 +20,5 @@ But wait, there's more! I'm not stopping at just writing—I'm ready to shout my
 Sure, this is my first blog, but it's definitely not my last. I'm ready to learn and grow, embracing every challenge that comes my way. Feedback will be my friend, guiding me towards improvement and helping me become the best blogger I can be. The prospect of continuous growth fills me with a sense of purpose and adventure.
 
 Alright, it's time to hit that "publish" button and let my thoughts loose! I'm ready to embark on this wild blogging journey, where creativity, passion, and a little bit of tech magic collide. Who knows where this road will take me, but one thing's for sure—I'm thrilled to share my thoughts with you and see where this exciting ride leads us!
+
+
