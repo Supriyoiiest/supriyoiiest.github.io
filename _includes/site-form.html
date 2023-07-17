@@ -12,14 +12,10 @@
   {% assign thanks_url = "/thanks/" %}
 {% endif %}
 
-<form class="form  form--mgejeydl" method="post" name="{{ name }}" action="{{ thanks_url }}"
-  {% if include.netlify_form %}
-    netlify-honeypot="bot-field"
-    netlify
-  {% endif %}
->
-  action="https://formspree.io/f/mgejeydl"
+<form  action="https://formspree.io/f/mgejeydl"
   method="POST"
+>
+
   <fieldset class="fieldset  form__fieldset">
     <legend class="legend form__legend">{{ name }}</legend>
     <label class="label" for="name--{{ name_id }}">Name: <span class="required">*</span></label>
