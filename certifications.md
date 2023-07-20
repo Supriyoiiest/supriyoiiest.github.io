@@ -20,8 +20,6 @@ aside: true
 
 
 
-### Contact form
 
-{% include site-form.html %}
 
 
