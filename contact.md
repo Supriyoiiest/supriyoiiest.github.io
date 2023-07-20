@@ -7,6 +7,6 @@ excerpt: "My Certifications and Skills"
 aside: true
 ---
 
-### Contact form
+
 
 {% include site-form.html %}
