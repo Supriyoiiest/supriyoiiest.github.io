@@ -7,7 +7,7 @@
 {% assign name_id = name | downcase | replace: " ", "-" %}
 
 {% if include.thanks_url %}
-  {% assign thanks_url = include.thanks_url %}
+   {% assign thanks_url = "/thanks/" %}
 {% else %}
   {% assign thanks_url = "/thanks/" %}
 {% endif %}
